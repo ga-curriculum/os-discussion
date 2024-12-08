@@ -26,7 +26,7 @@ This module explores the three major operating systems (Windows, macOS, and Linu
 
 ### Course landing pages
 
-- [ITB - Intro tto Operating Systems](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-operating-systems/canvas-landing-pages/itb.html)
+- [ITB - Intro to Operating Systems](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-operating-systems/canvas-landing-pages/itb.html)
 - [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-operating-systems/canvas-landing-pages/fallback.html)
 
 ### Resources
