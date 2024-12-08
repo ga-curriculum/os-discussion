@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Intro to Operating Systems</span>
   <span class="subhead">Release Notes</span>
 </h1>
 
@@ -9,7 +9,11 @@ This release modularizes the legacy [tktk previous lecture name] lecture and pro
 
 ### Release details
 
+New Module Creation
+
 #### Additions
+
+New Module Creation
 
 #### Changes
 
