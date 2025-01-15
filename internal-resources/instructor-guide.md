@@ -1,9 +1,9 @@
 <h1>
-  <span class="headline">Intro to Operating Systems</span>
+  <span class="headline">OS Discussion</span>
   <span class="subhead">Instructor Guide</span>
 </h1>
 
-tktk Information to help instructors deliver this content should be added here. This file should not be removed, even if there is no content to place here immediately, and the following content should be retained regardless of how much content is in this file.
+***Nothing here yet.***
 
 ---
 

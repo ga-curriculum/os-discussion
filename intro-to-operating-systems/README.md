@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Intro to Operating Systems</span>
+  <span class="headline">OS Discussion</span>
   <span class="subhead">Windows, macOS, and Linux - Your Guide to the Big Three</span>
 </h1>
 

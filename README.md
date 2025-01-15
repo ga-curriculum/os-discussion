@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Intro to Operating Systems</span>
+  <span class="headline">OS Discussion</span>
 </h1>
 
 ## About
@@ -11,7 +11,7 @@ This module explores the three major operating systems (Windows, macOS, and Linu
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Intro to Operating Systems](./intro-to-operating-systems/README.md) | 15 min | Foundations of Windows, MacOS, and Linux                |
+| [Intro to Operating Systems](./intro-to-operating-systems/README.md) | 15 min | Foundations of Windows, macOS, and Linux                |
 | **Total content**                                   | 15 min |                                     |
 
 ## References
@@ -26,8 +26,8 @@ This module explores the three major operating systems (Windows, macOS, and Linu
 
 ### Course landing pages
 
-- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-operating-systems/canvas-landing-pages/itb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-operating-systems/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/os-discussion/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/os-discussion/canvas-landing-pages/fallback.html)
 
 ### Resources
 

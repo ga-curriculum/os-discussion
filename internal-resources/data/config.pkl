@@ -12,13 +12,19 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "Intro to Operating Systems"
+  friendlyName = "OS Discussion"
   // This must match the repo name as it appears on GitHub exactly
-  name = "intro-to-operating-systems"
+  name = "os-discussion"
   type = "Lesson"
 }
 
 courses {
+  new {
+    name = "itb"
+    microlessons {
+      mls.introToOperatingSystems
+    }
+  }
   new {
     // Do not remove this fallback course!
     name = "fallback"

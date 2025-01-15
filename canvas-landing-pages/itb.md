@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Intro to Operating Systems</span>
+  <span class="headline">OS Discussion</span>
 </h1>
 
 ## About
