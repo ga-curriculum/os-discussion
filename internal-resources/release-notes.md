@@ -5,7 +5,7 @@
 
 ## Version 1.0 - New release
 
-This is a brand new module!
+This is a brand new module in our content library!
 
 ### Release details
 
